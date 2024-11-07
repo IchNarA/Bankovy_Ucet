@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\bin\Debug\BankovyUcetF.exe.config
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\bin\Debug\BankovyUcetF.exe
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\bin\Debug\BankovyUcetF.pdb
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.Form1.resources
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.Properties.Resources.resources
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.exe
+C:\Users\User\source\repos\BankovyUcetF\BankovyUcetF\obj\Debug\BankovyUcetF.pdb
